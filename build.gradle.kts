@@ -18,6 +18,8 @@ dependencies {
     compileOnly("io.micronaut:micronaut-http-client")
     runtimeOnly("ch.qos.logback:logback-classic")
     testImplementation("io.micronaut:micronaut-http-client")
+
+    implementation("io.projectreactor:reactor-core:3.6.2")
 }
 
 
