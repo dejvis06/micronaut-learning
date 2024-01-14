@@ -2,7 +2,7 @@ package micronaut.learning;
 
 import io.micronaut.context.ApplicationContext;
 import io.micronaut.runtime.Micronaut;
-import micronaut.learning.ioc.Vehicle;
+import micronaut.learning.ioc.injection.Vehicle;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

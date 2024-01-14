@@ -1,4 +1,4 @@
-package micronaut.learning.ioc;
+package micronaut.learning.ioc.injection.engine;
 
 public interface Engine {
     int getCylinders();
